@@ -1,0 +1,399 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Vaptcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-22 06:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: toms-vaptcha"
+
+#: inc/toms-vaptcha-user-registration.php:132
+msgid " Captcha verification failed, Please click to verify."
+msgstr ""
+
+#: inc/toms-vaptcha-user-registration.php:129
+msgid " Captcha verification failed, please try again."
+msgstr ""
+
+#: inc/toms-vaptcha.php:582
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr ""
+
+#: toms.php:53
+#, php-format
+msgid ""
+"<i>Thank you for using <a href=\"%s\" target=\"_blank\"><strong>TomS "
+"WordPress Plugin</strong></a></i>"
+msgstr ""
+
+#: inc/toms-vaptcha.php:237
+msgid "<strong>Click</strong> Mode only"
+msgstr ""
+
+#: inc/toms-vaptcha.php:222
+msgid "<strong>Click</strong> mode only"
+msgstr ""
+
+#: inc/toms-vaptcha.php:207
+msgid "<strong>Embedded</strong> mode only"
+msgstr ""
+
+#: inc/toms-vaptcha.php:524
+msgid ""
+"<strong>ERROR</strong>: Captcha challenge failed!!! Bots are not allowed to "
+"submit comments."
+msgstr ""
+
+#: inc/toms-vaptcha-user-registration.php:281
+#: inc/toms-vaptcha-woocommerce.php:139 inc/toms-vaptcha-woocommerce.php:239
+#: inc/toms-vaptcha-woocommerce.php:317 inc/toms-vaptcha-woocommerce.php:388
+#: inc/toms-vaptcha.php:337 inc/toms-vaptcha.php:397 inc/toms-vaptcha.php:455
+msgid ""
+"<strong>ERROR</strong>: Captcha verification failed, Please click to verify."
+msgstr ""
+
+#: inc/toms-vaptcha-user-registration.php:278
+#: inc/toms-vaptcha-woocommerce.php:136 inc/toms-vaptcha-woocommerce.php:236
+#: inc/toms-vaptcha-woocommerce.php:314 inc/toms-vaptcha-woocommerce.php:385
+#: inc/toms-vaptcha.php:334 inc/toms-vaptcha.php:394 inc/toms-vaptcha.php:452
+msgid "<strong>ERROR</strong>: Captcha verification failed, please try again."
+msgstr ""
+
+#: inc/toms-vaptcha.php:521
+msgid ""
+"<strong>ERROR</strong>: Challenge failed!!! Too many attempts, Please try "
+"again later."
+msgstr ""
+
+#: toms.php:138
+msgid "Activate"
+msgstr ""
+
+#: inc/toms-vaptcha.php:247
+msgid "Area"
+msgstr ""
+
+#: inc/toms-vaptcha.php:249
+msgid "Auto"
+msgstr ""
+
+#: inc/toms-vaptcha.php:259
+msgid "Auto Detect"
+msgstr ""
+
+#: inc/toms-vaptcha.php:521 inc/toms-vaptcha.php:524
+msgid "Back"
+msgstr ""
+
+#: inc/toms-vaptcha.php:237
+msgid "Button color"
+msgstr ""
+
+#: inc/toms-vaptcha-ultimate-member.php:120
+#: inc/toms-vaptcha-ultimate-member.php:182
+#: inc/toms-vaptcha-ultimate-member.php:250
+msgid "Captcha verification failed, Please click to verify."
+msgstr ""
+
+#: inc/toms-vaptcha-ultimate-member.php:116
+#: inc/toms-vaptcha-ultimate-member.php:178
+#: inc/toms-vaptcha-ultimate-member.php:246
+msgid "Captcha verification failed, please try again."
+msgstr ""
+
+#: inc/toms-vaptcha-woocommerce.php:53
+msgid "Checkout Billing Form"
+msgstr ""
+
+#: inc/toms-vaptcha.php:252
+msgid "China"
+msgstr ""
+
+#: inc/toms-vaptcha.php:261
+msgid "Chinese Simplified"
+msgstr ""
+
+#: inc/toms-vaptcha.php:262
+msgid "Chinese Traditional"
+msgstr ""
+
+#: inc/toms-vaptcha.php:142
+msgid "Click"
+msgstr ""
+
+#: inc/toms-vaptcha.php:177
+msgid "Comment Form"
+msgstr ""
+
+#: toms.php:193
+msgid "Comming Soon"
+msgstr ""
+
+#: toms.php:84
+msgid "Current Installed"
+msgstr ""
+
+#: inc/toms-vaptcha.php:242
+msgid "Custom Resource Url"
+msgstr ""
+
+#: inc/toms-vaptcha.php:227
+msgid "Dark"
+msgstr ""
+
+#: toms.php:31
+msgid "Dashboard"
+msgstr ""
+
+#: inc/toms-vaptcha.php:274
+msgid "Delete all data of this plugin"
+msgstr ""
+
+#: inc/toms-vaptcha.php:201 inc/toms-vaptcha.php:216
+msgid "Disabled"
+msgstr ""
+
+#: inc/toms-vaptcha.php:137
+msgid "Display Mode"
+msgstr ""
+
+#: inc/toms-vaptcha.php:150
+msgid "Embedded"
+msgstr ""
+
+#: inc/toms-vaptcha.php:197 inc/toms-vaptcha.php:212
+msgid "Enabled"
+msgstr ""
+
+#: inc/toms-vaptcha.php:260
+msgid "English"
+msgstr ""
+
+#: inc/toms-vaptcha.php:150
+msgid "Enterprise User Only."
+msgstr ""
+
+#: inc/toms-vaptcha.php:98
+msgid "ERROR : Settings save failed."
+msgstr ""
+
+#: inc/toms-vaptcha.php:125
+msgid "here"
+msgstr ""
+
+#: inc/toms-vaptcha.php:192
+msgid "Https"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://TomSneddon.org"
+msgstr ""
+
+#: inc/toms-vaptcha.php:275
+msgid ""
+"If you are only upgrading this plugin, please do not check this option, "
+"otherwise the data will be lost when the plugin is deleted."
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrated Vaptcha verification system."
+msgstr ""
+
+#: inc/toms-vaptcha.php:146
+msgid "Invisible"
+msgstr ""
+
+#: inc/toms-vaptcha.php:114
+msgid ""
+"is a new type of human-machine verification solution based on artificial "
+"intelligence and big data. Through comprehensive analysis of user behavior "
+"characteristics, biological characteristics, network environment, etc., "
+"VAPTCHA's efficient and evolving intelligent risk control engine can "
+"accurately identify and intercept attack requests including manual coding. "
+"Compared with traditional verification codes, VAPTCHA has significant "
+"advantages in terms of security and user experience."
+msgstr ""
+
+#: inc/toms-vaptcha.php:263
+msgid "Japanese"
+msgstr ""
+
+#: inc/toms-vaptcha.php:131
+msgid "KEY "
+msgstr ""
+
+#: inc/toms-vaptcha.php:257
+msgid "Language"
+msgstr ""
+
+#: inc/toms-vaptcha.php:231
+msgid "Light"
+msgstr ""
+
+#: inc/toms-vaptcha-ultimate-member.php:36
+#: inc/toms-vaptcha-user-registration.php:40
+#: inc/toms-vaptcha-woocommerce.php:41 inc/toms-vaptcha.php:165
+msgid "Login Form"
+msgstr ""
+
+#: inc/toms-vaptcha-ultimate-member.php:44
+#: inc/toms-vaptcha-user-registration.php:48
+#: inc/toms-vaptcha-woocommerce.php:49 inc/toms-vaptcha.php:173
+msgid "Lost Password Form"
+msgstr ""
+
+#: inc/toms-vaptcha.php:251
+msgid "North America"
+msgstr ""
+
+#: inc/toms-vaptcha.php:207
+msgid "Operation Guide"
+msgstr ""
+
+#: inc/toms-vaptcha.php:189
+msgid "Optional Settings"
+msgstr ""
+
+#: toms.php:153
+msgid "Our other popular plugins"
+msgstr ""
+
+#: inc/toms-vaptcha-init.php:461 inc/toms-vaptcha-init.php:483
+msgid "Please press the captcha to verify！"
+msgstr ""
+
+#: inc/toms-vaptcha-init.php:461 inc/toms-vaptcha-init.php:483
+msgid "Press the form area to active the captcha to verify！"
+msgstr ""
+
+#: inc/toms-vaptcha-ultimate-member.php:40
+#: inc/toms-vaptcha-user-registration.php:44
+#: inc/toms-vaptcha-woocommerce.php:45 inc/toms-vaptcha.php:169
+msgid "Register Form"
+msgstr ""
+
+#: inc/toms-vaptcha.php:281
+msgid "Save Changes"
+msgstr ""
+
+#: toms.php:124
+msgid "Settings"
+msgstr ""
+
+#: inc/toms-vaptcha.php:94
+msgid "Settings saved."
+msgstr ""
+
+#: inc/toms-vaptcha.php:99
+msgid "Sorry, you don't have permission to perform this action."
+msgstr ""
+
+#: inc/toms-vaptcha.php:250
+msgid "Southeast Asia"
+msgstr ""
+
+#: inc/toms-vaptcha.php:222
+msgid "Style"
+msgstr ""
+
+#: inc/toms-vaptcha.php:158
+msgid "Support Forms"
+msgstr ""
+
+#: toms.php:78
+msgid ""
+"Thank you for choosing TomS plugins. We provide easy, useful and secure "
+"plugins for you."
+msgstr ""
+
+#: inc/toms-vaptcha.php:125
+msgid ""
+"To get the Vaptcha <strong>VID</strong> and <strong>Key</strong>, click "
+msgstr ""
+
+#. Author of the plugin
+msgid "Tom Sneddon"
+msgstr ""
+
+#: toms.php:73
+msgid "TomS DashBoard"
+msgstr ""
+
+#: toms.php:31
+msgid "TomS Dashboard"
+msgstr ""
+
+#: toms.php:30
+msgid "TomS Plugins For Wordpress"
+msgstr ""
+
+#. Name of the plugin
+#: inc/toms-vaptcha.php:38
+msgid "TomS Vaptcha"
+msgstr ""
+
+#: inc/toms-vaptcha.php:38 inc/toms-vaptcha.php:110
+msgid "TomS Vaptcha Settings"
+msgstr ""
+
+#: toms.php:30
+msgid "TomS WP"
+msgstr ""
+
+#: inc/toms-vaptcha-ultimate-member.php:31
+msgid "Ultimate Member"
+msgstr ""
+
+#: inc/toms-vaptcha-user-registration.php:35
+msgid "User Registration"
+msgstr ""
+
+#: inc/toms-vaptcha.php:114
+msgid "VAPTCHA"
+msgstr ""
+
+#: inc/toms-vaptcha-init.php:111
+msgid "Vaptcha Initializing..."
+msgstr ""
+
+#: toms.php:118 toms.php:185
+msgid "Version:"
+msgstr ""
+
+#: inc/toms-vaptcha.php:128
+msgid "VID "
+msgstr ""
+
+#: inc/toms-vaptcha.php:124
+msgid "VID and Secret KEY"
+msgstr ""
+
+#: toms.php:127 toms.php:132 toms.php:141 toms.php:189 toms.php:197
+msgid "View Details"
+msgstr ""
+
+#: inc/toms-vaptcha.php:275
+msgid "Warning: "
+msgstr ""
+
+#: toms.php:77
+msgid "Welcome to TomS !"
+msgstr ""
+
+#: inc/toms-vaptcha-woocommerce.php:36
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/toms-vaptcha.php:160
+msgid "WordPress Default"
+msgstr ""

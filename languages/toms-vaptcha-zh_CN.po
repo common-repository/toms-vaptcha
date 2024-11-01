@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Vaptcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-08 14:46+0000\n"
+"PO-Revision-Date: 2021-12-22 06:19+0000\n"
+"Last-Translator: 汤小贤\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: toms-vaptcha"
+
+#: inc/toms-vaptcha-user-registration.php:132
+msgid " Captcha verification failed, Please click to verify."
+msgstr "验证失败，请先验证！"
+
+#: inc/toms-vaptcha-user-registration.php:129
+msgid " Captcha verification failed, please try again."
+msgstr "验证失败，请重试。"
+
+#: inc/toms-vaptcha.php:582
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr "<a href=\"%s\">设置</a>"
+
+#: toms.php:53
+#, php-format
+msgid ""
+"<i>Thank you for using <a href=\"%s\" target=\"_blank\"><strong>TomS "
+"WordPress Plugin</strong></a></i>"
+msgstr ""
+"<i>感谢您使用 <a href=\"%s\" target=\"_blank\"><strong>TomS WordPress "
+"Plugin</strong></a></i>"
+
+#: inc/toms-vaptcha.php:237
+msgid "<strong>Click</strong> Mode only"
+msgstr "仅限<strong>点击式</strong>"
+
+#: inc/toms-vaptcha.php:222
+msgid "<strong>Click</strong> mode only"
+msgstr "仅限<strong>点击式</strong>"
+
+#: inc/toms-vaptcha.php:207
+msgid "<strong>Embedded</strong> mode only"
+msgstr "仅限<strong>嵌入式</strong>"
+
+#: inc/toms-vaptcha.php:524
+msgid ""
+"<strong>ERROR</strong>: Captcha challenge failed!!! Bots are not allowed to "
+"submit comments."
+msgstr "<strong>错误</strong>: 验证失败!!! 疑似机器人，不予许发表评论， 请稍后再试。"
+
+#: inc/toms-vaptcha-user-registration.php:281
+#: inc/toms-vaptcha-woocommerce.php:139 inc/toms-vaptcha-woocommerce.php:239
+#: inc/toms-vaptcha-woocommerce.php:317 inc/toms-vaptcha-woocommerce.php:388
+#: inc/toms-vaptcha.php:337 inc/toms-vaptcha.php:397 inc/toms-vaptcha.php:455
+msgid ""
+"<strong>ERROR</strong>: Captcha verification failed, Please click to verify."
+msgstr "<strong>错误</strong>: 请先进行人机验证。"
+
+#: inc/toms-vaptcha-user-registration.php:278
+#: inc/toms-vaptcha-woocommerce.php:136 inc/toms-vaptcha-woocommerce.php:236
+#: inc/toms-vaptcha-woocommerce.php:314 inc/toms-vaptcha-woocommerce.php:385
+#: inc/toms-vaptcha.php:334 inc/toms-vaptcha.php:394 inc/toms-vaptcha.php:452
+msgid "<strong>ERROR</strong>: Captcha verification failed, please try again."
+msgstr "<strong>错误</strong>: 验证失败，请重试"
+
+#: inc/toms-vaptcha.php:521
+msgid ""
+"<strong>ERROR</strong>: Challenge failed!!! Too many attempts, Please try "
+"again later."
+msgstr "<strong>错误</strong>: 尝试次数过多， 请稍后再试。"
+
+#: toms.php:138
+msgid "Activate"
+msgstr "激活"
+
+#: inc/toms-vaptcha.php:247
+msgid "Area"
+msgstr "节点"
+
+#: inc/toms-vaptcha.php:249
+msgid "Auto"
+msgstr "自动"
+
+#: inc/toms-vaptcha.php:259
+msgid "Auto Detect"
+msgstr "自动检测"
+
+#: inc/toms-vaptcha.php:521 inc/toms-vaptcha.php:524
+msgid "Back"
+msgstr "返回"
+
+#: inc/toms-vaptcha.php:237
+msgid "Button color"
+msgstr "按钮颜色"
+
+#: inc/toms-vaptcha-ultimate-member.php:120
+#: inc/toms-vaptcha-ultimate-member.php:182
+#: inc/toms-vaptcha-ultimate-member.php:250
+msgid "Captcha verification failed, Please click to verify."
+msgstr "<strong>错误</strong>: 请先进行人机验证。"
+
+#: inc/toms-vaptcha-ultimate-member.php:116
+#: inc/toms-vaptcha-ultimate-member.php:178
+#: inc/toms-vaptcha-ultimate-member.php:246
+msgid "Captcha verification failed, please try again."
+msgstr "验证失败，请重试。"
+
+#: inc/toms-vaptcha-woocommerce.php:53
+msgid "Checkout Billing Form"
+msgstr "结账页表单"
+
+#: inc/toms-vaptcha.php:252
+msgid "China"
+msgstr "中国"
+
+#: inc/toms-vaptcha.php:261
+msgid "Chinese Simplified"
+msgstr "简体中文"
+
+#: inc/toms-vaptcha.php:262
+msgid "Chinese Traditional"
+msgstr "繁体中文"
+
+#: inc/toms-vaptcha.php:142
+msgid "Click"
+msgstr "点击式"
+
+#: inc/toms-vaptcha.php:177
+msgid "Comment Form"
+msgstr "评论表单"
+
+#: toms.php:193
+msgid "Comming Soon"
+msgstr "即将发布"
+
+#: toms.php:84
+msgid "Current Installed"
+msgstr "当前已安装"
+
+#: inc/toms-vaptcha.php:242
+msgid "Custom Resource Url"
+msgstr "自定义v3.js地址"
+
+#: inc/toms-vaptcha.php:227
+msgid "Dark"
+msgstr "深色"
+
+#: toms.php:31
+msgid "Dashboard"
+msgstr "首页"
+
+#: inc/toms-vaptcha.php:274
+msgid "Delete all data of this plugin"
+msgstr "删除所有数据"
+
+#: inc/toms-vaptcha.php:201 inc/toms-vaptcha.php:216
+msgid "Disabled"
+msgstr "禁用"
+
+#: inc/toms-vaptcha.php:137
+msgid "Display Mode"
+msgstr "模式"
+
+#: inc/toms-vaptcha.php:150
+msgid "Embedded"
+msgstr "嵌入式"
+
+#: inc/toms-vaptcha.php:197 inc/toms-vaptcha.php:212
+msgid "Enabled"
+msgstr "启用"
+
+#: inc/toms-vaptcha.php:260
+msgid "English"
+msgstr "英语"
+
+#: inc/toms-vaptcha.php:150
+msgid "Enterprise User Only."
+msgstr "仅限开通企业版的账号"
+
+#: inc/toms-vaptcha.php:98
+msgid "ERROR : Settings save failed."
+msgstr "错误：保存设置失败。"
+
+#: inc/toms-vaptcha.php:125
+msgid "here"
+msgstr "这里"
+
+#: inc/toms-vaptcha.php:192
+msgid "Https"
+msgstr "Https"
+
+#. Author URI of the plugin
+msgid "https://TomSneddon.org"
+msgstr "https://TomSneddon.org"
+
+#: inc/toms-vaptcha.php:275
+msgid ""
+"If you are only upgrading this plugin, please do not check this option, "
+"otherwise the data will be lost when the plugin is deleted."
+msgstr "如果只是升级插件，请不要勾选此选项，勾选此选项在删除插件时将清空该插件所有保存在数据库的数据。"
+
+#. Description of the plugin
+msgid "Integrated Vaptcha verification system."
+msgstr "继承Vaptcha手势验证系统"
+
+#: inc/toms-vaptcha.php:146
+msgid "Invisible"
+msgstr "隐藏式"
+
+#: inc/toms-vaptcha.php:114
+msgid ""
+"is a new type of human-machine verification solution based on artificial "
+"intelligence and big data. Through comprehensive analysis of user behavior "
+"characteristics, biological characteristics, network environment, etc., "
+"VAPTCHA's efficient and evolving intelligent risk control engine can "
+"accurately identify and intercept attack requests including manual coding. "
+"Compared with traditional verification codes, VAPTCHA has significant "
+"advantages in terms of security and user experience."
+msgstr ""
+"是基于人工智能和大数据的创新人机验证解决方案。通过综合分析用户的行为特征、生物特征、网络环境等，VAPTCHA高效、不断进化的智能风控引擎能准确的识别并拦截包括人工打码在内的攻击请求。与传统验证码相比，无论在安全级别还是用户体验，VAPTCHA都有显著的优势。"
+
+#: inc/toms-vaptcha.php:263
+msgid "Japanese"
+msgstr "日语"
+
+#: inc/toms-vaptcha.php:131
+msgid "KEY "
+msgstr "KEY "
+
+#: inc/toms-vaptcha.php:257
+msgid "Language"
+msgstr "语言"
+
+#: inc/toms-vaptcha.php:231
+msgid "Light"
+msgstr "浅色"
+
+#: inc/toms-vaptcha-ultimate-member.php:36
+#: inc/toms-vaptcha-user-registration.php:40
+#: inc/toms-vaptcha-woocommerce.php:41 inc/toms-vaptcha.php:165
+msgid "Login Form"
+msgstr "登录表单"
+
+#: inc/toms-vaptcha-ultimate-member.php:44
+#: inc/toms-vaptcha-user-registration.php:48
+#: inc/toms-vaptcha-woocommerce.php:49 inc/toms-vaptcha.php:173
+msgid "Lost Password Form"
+msgstr "忘记密码表单"
+
+#: inc/toms-vaptcha.php:251
+msgid "North America"
+msgstr "美国"
+
+#: inc/toms-vaptcha.php:207
+msgid "Operation Guide"
+msgstr "操作指南"
+
+#: inc/toms-vaptcha.php:189
+msgid "Optional Settings"
+msgstr "选项设置"
+
+#: toms.php:153
+msgid "Our other popular plugins"
+msgstr "更多插件"
+
+#: inc/toms-vaptcha-init.php:461 inc/toms-vaptcha-init.php:483
+msgid "Please press the captcha to verify！"
+msgstr "请点击按钮进行人机验证。"
+
+#: inc/toms-vaptcha-init.php:461 inc/toms-vaptcha-init.php:483
+msgid "Press the form area to active the captcha to verify！"
+msgstr "点击空白处进行人机验证。"
+
+#: inc/toms-vaptcha-ultimate-member.php:40
+#: inc/toms-vaptcha-user-registration.php:44
+#: inc/toms-vaptcha-woocommerce.php:45 inc/toms-vaptcha.php:169
+msgid "Register Form"
+msgstr "注册表单"
+
+#: inc/toms-vaptcha.php:281
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: toms.php:124
+msgid "Settings"
+msgstr "设置"
+
+#: inc/toms-vaptcha.php:94
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: inc/toms-vaptcha.php:99
+msgid "Sorry, you don't have permission to perform this action."
+msgstr "对不起，您没有该操作权限。"
+
+#: inc/toms-vaptcha.php:250
+msgid "Southeast Asia"
+msgstr "东南亚"
+
+#: inc/toms-vaptcha.php:222
+msgid "Style"
+msgstr "按钮样式"
+
+#: inc/toms-vaptcha.php:158
+msgid "Support Forms"
+msgstr "支持的表单"
+
+#: toms.php:78
+msgid ""
+"Thank you for choosing TomS plugins. We provide easy, useful and secure "
+"plugins for you."
+msgstr "非常感谢您选择使用TomS插件, 我们为您制作简单、实用和安全的WordPress插件。"
+
+#: inc/toms-vaptcha.php:125
+msgid ""
+"To get the Vaptcha <strong>VID</strong> and <strong>Key</strong>, click "
+msgstr "获取 Vaptcha的 <strong>VID</strong> 和 <strong>Key</strong>，点击 "
+
+#. Author of the plugin
+msgid "Tom Sneddon"
+msgstr "汤小贤"
+
+#: toms.php:73
+#| msgid "TomS Dashboard"
+msgid "TomS DashBoard"
+msgstr "TomS 首页"
+
+#: toms.php:31
+msgid "TomS Dashboard"
+msgstr "TomS 首页"
+
+#: toms.php:30
+msgid "TomS Plugins For Wordpress"
+msgstr "TomS Plugins For Wordpress"
+
+#. Name of the plugin
+#: inc/toms-vaptcha.php:38
+msgid "TomS Vaptcha"
+msgstr "TomS Vaptcha"
+
+#: inc/toms-vaptcha.php:38 inc/toms-vaptcha.php:110
+msgid "TomS Vaptcha Settings"
+msgstr "TomS Vaptcha 设置"
+
+#: toms.php:30
+msgid "TomS WP"
+msgstr "TomS WP"
+
+#: inc/toms-vaptcha-ultimate-member.php:31
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#: inc/toms-vaptcha-user-registration.php:35
+msgid "User Registration"
+msgstr "User Registration"
+
+#: inc/toms-vaptcha.php:114
+msgid "VAPTCHA"
+msgstr "VAPTCHA"
+
+#: inc/toms-vaptcha-init.php:111
+msgid "Vaptcha Initializing..."
+msgstr "Vaptcha 初始化..."
+
+#: toms.php:118 toms.php:185
+#, php-format
+#| msgid "Version: %s"
+msgid "Version:"
+msgstr "版本: "
+
+#: inc/toms-vaptcha.php:128
+msgid "VID "
+msgstr "VID"
+
+#: inc/toms-vaptcha.php:124
+msgid "VID and Secret KEY"
+msgstr "VID 和 Secret KEY"
+
+#: toms.php:127 toms.php:132 toms.php:141 toms.php:189 toms.php:197
+msgid "View Details"
+msgstr "查看详细"
+
+#: inc/toms-vaptcha.php:275
+msgid "Warning: "
+msgstr "警告："
+
+#: toms.php:77
+msgid "Welcome to TomS !"
+msgstr "欢迎！"
+
+#: inc/toms-vaptcha-woocommerce.php:36
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/toms-vaptcha.php:160
+msgid "WordPress Default"
+msgstr "Wordpress默认"
